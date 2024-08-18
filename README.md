@@ -2,7 +2,12 @@
 
 Este es una aplicación desarrollada en Flutter eficaz para utilizarla cuando vamos a entrenar, sea en el gimnasio o en nuestra casa.
 
-## Gestion de las rutinas
+
+[Historias de usuarios](Analisis.md)
+
+## UI de la app:
+
+### Gestion de las rutinas
 
 Gestionamos la informacion de las rutinas registradas.
 
@@ -18,7 +23,7 @@ En este caso se muestra la informacion de la rutina y se le puede modificar la i
 
 ![](img/routine_manager.PNG)
 
-## Ejecucion de la rutina
+### Ejecucion de la rutina
 
 Una vez creada la rutina procedemos a ejecutarla para que tengamos un registro de lo que hacemos cuando entrenamos.
 
