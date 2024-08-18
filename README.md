@@ -75,4 +75,4 @@ Tenemos un dia usando 80kg en Press Banca.
 
 #### Se muestran las repeticiones ejecutadas:
 
-![](img/all_reps.PNG)
+![](img/all_reps_bp.PNG)
