@@ -51,14 +51,14 @@ y añadiendo las repeticiones realizadas en ese mismo día para que asi se guard
 
 ##### AC 2.2 Añadir nuevo día de ejecución
 * Descripcion: **Dado** un peso seleccionado<br> 
-**cuando** añadimos un nuevo día<br>  
+**cuando** añadimos un nuevo día<br>
 **entonces** se la añade a la lista de dias de manera automática con 0 repeticiones totales<br>
 **y** la fecha actual. <br>
 * Estado: Pendiente
 
 ##### AC 2.3 Añadir nueva serie
 * Descripcion: **Dado** un día seleccionado<br> 
-**cuando** registra una nueva serie con un numero de repeticiones <br>  
+**cuando** registra una nueva serie con un numero de repeticiones <br>
 **entonces** se la añade a la lista de series ejecutadas en el día <br> 
 **y** se actualiza el número de repeticiones totales de manera automática. <br> 
 * Estado: Pendiente
