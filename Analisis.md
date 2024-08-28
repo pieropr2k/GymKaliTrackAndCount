@@ -44,9 +44,9 @@ y añadiendo las repeticiones realizadas en ese mismo día para que asi se guard
 #### 2. Gestionar los registros historicos de la ejecución de ejercicios.
 
 ##### AC 2.1 Añadir pesos
-* Descripcion: **Dado** un ejercicio seleccionado<br> 
-**cuando** registra un nuevo peso<br>  
-**entonces** se la añade a la lista de pesos de manera automática.<br> 
+* Descripcion: **Dado** un ejercicio seleccionado<br>
+**cuando** se registra un nuevo peso<br> 
+**entonces** se la añade a la lista de pesos del ejercicio de manera automática.<br> 
 * Estado: Pendiente
 
 ##### AC 2.2 Añadir nuevo día de ejecución
