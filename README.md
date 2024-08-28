@@ -3,7 +3,7 @@
 Este es una aplicación desarrollada en Flutter eficaz para utilizarla cuando vamos a entrenar, sea en el gimnasio o en nuestra casa.
 
 
-[Historias de usuarios](Analisis.md)
+[Historias de Usuarios y Criterios de Aceptación](Analisis.md)
 
 ## UI de la app:
 
